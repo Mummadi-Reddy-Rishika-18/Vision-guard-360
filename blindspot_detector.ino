@@ -13,7 +13,6 @@ EXCAVATOR CODE:
 // 12–17 cm -> LOW WARNING
 // >17 cm   -> NO DETECTION
 // ==========================================================
-
 #include <Adafruit_NeoPixel.h>
 // ==========================================================
 // SENSOR PINS
