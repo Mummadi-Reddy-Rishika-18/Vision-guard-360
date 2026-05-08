@@ -20,7 +20,15 @@ We can simply define it like:
 To enhance the safety of heavy machinery by detecting nearby obstacles or workers in blind spots and warning the operator using alerts.
 
 FEATURES:
-
+ 360° blind-spot detection using 4 ultrasonic sensors
+ Real-time distance measurement of nearby objects
+ Multi-level alert system (Safe / Low / Warning / Danger)
+ NeoPixel LED ring for direction-based visual alerts
+ Dynamic buzzer with distance-based beep intensity
+ Detects obstacle direction (Front, Back, Left, Right)
+ Serial data output for monitoring and IoT integration
+ Arduino UNO R3 based low-cost implementation
+ IoT expandable (ESP8266 / ESP32 compatible design)
 
 COMPONENTS USED :
 Ultrasonic sensor (HC-SR04) -4
