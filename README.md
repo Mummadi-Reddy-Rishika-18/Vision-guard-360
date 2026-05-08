@@ -16,10 +16,8 @@ The system aims to:
 4.	Reduce accidents caused by limited visibility around large machines.
 5.	Provide real-time monitoring of the surroundings for safer machine operation.
 6.	Create a low-cost and reliable safety solution using sensors and embedded systems.
-
 We can simply define it like:
 To enhance the safety of heavy machinery by detecting nearby obstacles or workers in blind spots and warning the operator using alerts.
-
 
 FEATURES:
 
@@ -57,6 +55,7 @@ GPS and IoT support for real-time tracking and safety monitoring.
 Automatic braking system to prevent collisions.
 Use in construction vehicles, mining equipment, trucks, and smart    transportation systems.
 Improved accuracy using advanced radar and sensor technologies.
+
 ADVANTAGES :
 Provides 360°obstacle detection
 Reduces blind-spot accidents
