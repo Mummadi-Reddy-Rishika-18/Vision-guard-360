@@ -22,7 +22,6 @@ To enhance the safety of heavy machinery by detecting nearby obstacles or worker
 FEATURES:
 
 
-
 COMPONENTS USED :
 Ultrasonic sensor (HC-SR04) -4
 Arduino Uno R3 -1
@@ -70,6 +69,7 @@ Portable and scalable design
 
 
 TEAM MEMBERS:
+
 M.BHAVANA
 
 MUMMADI REDDY RISHIKA
