@@ -1,7 +1,7 @@
 # Vision-guard-360
 360° blind-spot detection system for heavy vehicles using Arduino and ultrasonic sensors.
 
-PROJECT NAME : VisionGaurd360
+PROJECT NAME : VisionGuard360
 
 PROBLEM STATEMENT:
 Excavator blind-spot radar / vehicle blind spot detector: Mount ultrasonic/radar sensors around heavy machinery to create a 360° proximity alert system that warns operators of nearby workers via cabin buzzer and LED ring.
